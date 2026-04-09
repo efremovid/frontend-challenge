@@ -1,0 +1,21 @@
+.container {
+  background: #2195f3;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.24);
+}
+
+.links {
+  display: flex;
+  margin: auto 62px;
+}
+
+.link {
+  padding: 23px;
+  color: #ffffffb2;
+  font-size: 14px;
+  letter-spacing: 0.25;
+}
+
+.active {
+  background: #1e88e5;
+  color: #ffffff;
+}
